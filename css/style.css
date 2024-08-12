@@ -1,0 +1,49 @@
+/* color-primario: #0066A1   ;
+color-secundario: #FFD07F   ;
+color-terciario: #04591C   ;
+color-cuarto: #44558c   ;
+ */
+h1{
+    color: rgb(6, 6, 107);
+    font-family: "Poppins", system-ui;
+  font-weight: 600;
+  font-style: italic;
+ 
+}
+label{
+    color: red;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nombre{
+    color: rgb(6, 155, 68);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.apellido{
+    color: rgb(235, 155, 36);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: rgb(190, 226, 245);
+}
+.body1{background-color: chocolate;}
+a{
+    color:#5712d8;
+    font-size: large;
+    background-color: greenyellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.link1{
+    color:darkslategray;
+    font-size: larger;
+    background-color: cyan;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+.link2{
+    color: darkslategray;
+    font-size: larger;
+    background-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
